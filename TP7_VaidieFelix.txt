@@ -1,3 +1,6 @@
 Vaidie 
 Félix
 TP7
+Explication Création de Branche:
+Le fichier n'est pas visible car il n'a pas été commité dans la branche
+master
